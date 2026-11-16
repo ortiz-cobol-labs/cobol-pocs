@@ -4,8 +4,6 @@ A dedicated laboratory repository within the **[ortiz-cobol-labs](https://github
 
 This project serves as a foundational proving ground for legacy systems engineering and structured batch programming paradigms.
 
-```
-
 ---
 
 ## 🎯 Scope & Learning Objectives
