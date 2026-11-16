@@ -4,6 +4,8 @@ A dedicated laboratory repository within the **[ortiz-cobol-labs](https://github
 
 This project serves as a foundational proving ground for legacy systems engineering and structured batch programming paradigms.
 
+```
+
 ---
 
 ## 🎯 Scope & Learning Objectives
@@ -24,6 +26,8 @@ This project serves as a foundational proving ground for legacy systems engineer
 ├── Makefile      # Simple build and execution script
 └── README.md
 
+```
+
 ---
 
 ## 🚀 Getting Started
@@ -43,7 +47,7 @@ sudo apt install open-cobol build-essential
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/ortiz-cobol-labs/cobol-pocs.git](https://github.com/ortiz-cobol-labs/cobol-pocs.git)
+git clone https://github.com/ortiz-cobol-labs/cobol-pocs.git
 cd cobol-pocs
 
 ```
@@ -73,4 +77,4 @@ make clean
 
 *Senior Software Engineer & Systems Architect*
 
-[GitHub Profile](https://www.google.com/search?q=https://github.com/ortizdavid) • [Portfolio](https://www.google.com/search?q=https://ortizdavid.github.io)
+[GitHub Profile](https://github.com/ortizdavid) • [Portfolio](https://ortizdavid.github.io)
